@@ -17,10 +17,4 @@
 
 # CREDIT
 
-[AKKI](https://t.me/godfatherakkii) - CONTRIBUTOR
-
-[LAKY](https://t.me/Laky64) - FOR PY-TGCALLS
-
-[ERROR](https://t.me/BrayDenXD) - CONTRIBUTOR
-
-[BLAZE](https://t.me/piroXpower)- OWNER
+## TERI MAKI XHOOD DEPLOY KR OR NIKAL MC YHA SE
