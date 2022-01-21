@@ -1,6 +1,6 @@
 # 📀 𝐕𝐂𝐔𝐬𝐞𝐫𝐁𝐨𝐭
 
-## https://telegra.ph/file/5820122f4889420240ff7.png 
+## VENOM CRAZY ALWAYS OP DEPLOY KR OR NIKAL PAPA SE BACKCHODI NAHI BETA
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VENOMxCRAZY9/VCUserBot)
 
