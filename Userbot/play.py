@@ -92,7 +92,7 @@ async def play(client, m: Message):
     if replied:
         if replied.audio or replied.voice:
             await m.delete()
-            huehue = await replied.reply("**🔄 Searching**")
+            huehue = await replied.reply("**🔄Not Searching**")
             dl = await replied.download()
             link = replied.link
             if replied.audio:
@@ -203,7 +203,7 @@ async def vplay(client, m: Message):
     if replied:
         if replied.video or replied.document:
             await m.delete()
-            huehue = await replied.reply("**🔄 Processing**")
+            huehue = await replied.reply("**🔄 not Processing**")
             dl = await replied.download()
             link = replied.link
             if len(m.command) < 2:
